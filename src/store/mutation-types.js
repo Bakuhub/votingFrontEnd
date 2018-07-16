@@ -1,0 +1,14 @@
+// ui-store
+export const CALCULATOR_BUTTON = 'CALCULATOR_BUTTON'
+export const ACTION_UPDATE_DISPLAY_VALUE = 'ACTION_UPDATE_DISPLAY_VALUE'
+export const ACTION_INSERT_INPUT_HISTORY = 'ACTION_INSERT_INPUT_HISTORY'
+export const ACTION_UPDATE_OPERATOR = 'ACTION_UPDATE_OPERATOR'
+export const ACTION_CALCULATE_RESULT = 'ACTION_CALCULATE_RESULT'
+export const ACTION_CLEAR_CALCULATOR = 'ACTION_CLEAR_CALCULATOR'
+
+
+//message
+
+export const UNSUPPORTED_OPERATOR = "unsupported operator"
+export const CAN_NOT_DIVIDED_BY_0 = "can not divided by 0"
+export const CAN_NOT_CALCULATED = "can not calculated"
